@@ -2,4 +2,4 @@
 
 # Output
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/09ae938b-7c42-4769-97f1-21f79c5e77a0" />
+<img width="1342" height="752" alt="Image" src="https://github.com/user-attachments/assets/0ac9fe71-e256-4fcd-8c9e-637c90e7d56f" />
